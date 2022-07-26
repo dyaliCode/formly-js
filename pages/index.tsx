@@ -43,6 +43,21 @@ const Home: NextPage = () => {
                 Svelte Formly
               </span>
             </a>
+            <a
+            aria-disabled="true"
+              href="#"
+              title="React Formly"
+              className="shadow-lg shadow-sky-700/50 w-40 h-40 xs:w-32 xs:h-32 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-solid-700 bg-slate-800 transition duration-150 ease-in-out hover:bg-sky-900 rounded-full text-white px-4 sm:px-10 border border-sky-400 py-2 sm:py-4"
+            >
+              <img
+                className="w-full h-auto xs:h-16 md:h-auto z-10"
+                alt="Reactjs"
+                src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+              />
+              <span className="block mt-2 w-full text-center lg:font-bold text-sm text-gray-400">
+                React Formly<br />
+              </span>
+            </a>
           </div>
 
           <footer className="mt-20 text-slate-500 font-semibold">
