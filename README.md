@@ -1,3 +1,3 @@
 ## Official website
 
-Open [https://formly-js.com](https://formly-js.com)
+Open [https://www.formly-js.com](https://www.formly-js.com)
