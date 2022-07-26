@@ -32,11 +32,11 @@ const Home: NextPage = () => {
             <a
               href="https://svelte.formly-js.com/"
               title="Svelte Formly"
-              className="shadow-lg shadow-orange-700/50 w-40 h-40 xs:w-32 xs:h-32 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-700 bg-orange-700 transition duration-150 ease-in-out hover:bg-orange-600 lg:text-xl lg:font-bold  rounded-full text-white px-4 sm:px-10 border border-orange-700 py-2 sm:py-4 text-sm"
+              className="shadow-lg shadow-orange-400/50 w-40 h-40 xs:w-32 xs:h-32 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-700 bg-orange-700 transition duration-150 ease-in-out hover:bg-orange-600 lg:text-xl lg:font-bold  rounded-full text-white px-4 sm:px-10 border border-orange-400 py-2 sm:py-4 text-sm"
             >
               <img
                 className="w-full h-auto xs:h-16 md:h-auto z-10"
-                alt="SolidJS"
+                alt="SvelteJS"
                 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsveltejs%2Fsvelte%2F29052aba7d0b78316d3a52aef1d7ddd54fe6ca84%2Fsite%2Fstatic%2Fimages%2Fsvelte-android-chrome-512.png&f=1&nofb=1"
               />
               <span className="block mt-2 w-full text-center lg:font-bold text-sm">
@@ -51,7 +51,7 @@ const Home: NextPage = () => {
             >
               <img
                 className="w-full h-auto xs:h-16 md:h-auto z-10"
-                alt="Reactjs"
+                alt="ReactJS"
                 src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
               />
               <span className="block mt-2 w-full text-center lg:font-bold text-sm text-gray-400">
